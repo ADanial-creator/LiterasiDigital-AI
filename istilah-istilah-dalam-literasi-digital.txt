@@ -1,1 +1,367 @@
+A. Istilah Dasar Literasi Digital
 
+Literasi Digital — Kemampuan menggunakan teknologi digital untuk mencari, memahami, mengevaluasi, membuat, dan menyebarkan informasi secara bertanggung jawab.
+
+Digital Literacy — Istilah bahasa Inggris untuk literasi digital, mencakup keterampilan mengakses dan menggunakan informasi digital.
+
+Informasi Digital — Informasi yang disimpan, diolah, atau disebarkan melalui perangkat elektronik.
+
+Konten Digital — Materi dalam bentuk teks, gambar, audio, video, atau multimedia yang tersedia secara digital.
+
+Platform Digital — Layanan atau sistem berbasis teknologi yang digunakan untuk berkomunikasi, bekerja, belajar, dan menerbitkan konten.
+
+Ekosistem Digital — Kumpulan teknologi, platform, pengguna, dan layanan yang saling terhubung.
+
+Transformasi Digital — Perubahan proses kerja dan kegiatan organisasi dengan memanfaatkan teknologi digital.
+
+Komunikasi Digital — Penyampaian informasi melalui media elektronik dan jaringan internet.
+
+Kolaborasi Digital — Kerja sama menggunakan perangkat dan platform digital.
+
+Etika Digital — Prinsip perilaku yang baik, sopan, aman, dan bertanggung jawab ketika menggunakan teknologi digital.
+
+B. Istilah dalam Penulisan Buku
+
+Naskah Digital — Naskah buku atau tulisan yang dibuat dan disimpan dalam format digital.
+
+E-book — Buku elektronik yang dapat dibaca melalui komputer, tablet, ponsel, atau perangkat pembaca elektronik.
+
+ISBN (International Standard Book Number) — Nomor identifikasi standar internasional untuk buku yang diterbitkan.
+
+Metadata Buku — Informasi tentang buku, seperti judul, nama penulis, penerbit, tahun terbit, dan ISBN.
+
+Manuskrip — Naskah tulisan yang dipersiapkan untuk diterbitkan.
+
+Outline — Kerangka yang berisi susunan bab dan pokok pembahasan buku.
+
+Sinopsis — Ringkasan isi buku yang memberikan gambaran umum mengenai karya tersebut.
+
+Prakata — Bagian awal buku yang biasanya berisi pengantar dari penulis atau pihak lain.
+
+Kata Pengantar — Bagian pembuka yang menjelaskan latar belakang, tujuan, atau apresiasi terhadap sebuah buku.
+
+Daftar Isi — Daftar bab dan subbab beserta nomor halaman.
+
+Editing — Proses memperbaiki bahasa, struktur, kejelasan, dan konsistensi tulisan.
+
+Proofreading — Pemeriksaan akhir untuk menemukan kesalahan ejaan, tanda baca, tata bahasa, dan pengetikan.
+
+Layout — Pengaturan tata letak teks, gambar, tabel, dan elemen lainnya dalam halaman buku.
+
+Tipografi — Pengaturan dan pemilihan huruf agar tulisan mudah dibaca dan menarik.
+
+Desain Sampul Digital — Pembuatan desain sampul buku menggunakan perangkat lunak digital.
+
+Format EPUB — Format buku elektronik yang mendukung penyesuaian tampilan teks pada berbagai perangkat.
+
+Format PDF — Format dokumen digital yang mempertahankan tata letak halaman.
+
+Format DOCX — Format dokumen pengolah kata yang umum digunakan untuk menyusun dan mengedit naskah.
+
+Hak Cipta — Hak hukum yang melindungi karya kreatif, termasuk buku, tulisan, ilustrasi, dan karya digital.
+
+Self-Publishing — Penerbitan mandiri yang dilakukan penulis tanpa harus menggunakan penerbit konvensional.
+
+C. Istilah dalam Penulisan Jurnal Ilmiah
+
+Jurnal Ilmiah — Publikasi berkala yang memuat artikel ilmiah berdasarkan penelitian, kajian, atau pengembangan ilmu pengetahuan.
+
+Artikel Ilmiah — Tulisan akademik yang menyampaikan hasil penelitian atau pembahasan ilmiah.
+
+Abstrak — Ringkasan singkat yang memuat tujuan, metode, hasil, dan kesimpulan penelitian.
+
+Kata Kunci (Keywords) — Kata atau frasa utama yang menggambarkan topik artikel dan membantu pencarian informasi.
+
+Pendahuluan (Introduction) — Bagian yang menjelaskan latar belakang, masalah, tujuan, dan alasan pentingnya penelitian.
+
+Tinjauan Pustaka (Literature Review) — Pembahasan terhadap teori dan penelitian terdahulu yang relevan dengan topik.
+
+Metodologi Penelitian — Penjelasan tentang pendekatan, metode, sumber data, dan prosedur penelitian.
+
+Hasil Penelitian (Results) — Bagian yang menyajikan temuan penelitian.
+
+Pembahasan (Discussion) — Bagian yang menafsirkan hasil penelitian dan menghubungkannya dengan teori atau penelitian terdahulu.
+
+Kesimpulan (Conclusion) — Pernyataan ringkas mengenai temuan utama dan jawaban atas tujuan penelitian.
+
+Referensi — Daftar sumber yang dirujuk dalam tulisan ilmiah.
+
+Sitasi (Citation) — Pencantuman sumber informasi atau gagasan yang digunakan dalam tulisan.
+
+Daftar Pustaka — Daftar karya yang dirujuk atau digunakan sesuai ketentuan penulisan yang berlaku.
+
+DOI (Digital Object Identifier) — Identitas digital permanen yang digunakan untuk mengidentifikasi objek digital, termasuk banyak artikel ilmiah.
+
+Peer Review — Proses penilaian karya ilmiah oleh ahli yang kompeten di bidang terkait.
+
+Open Access — Model publikasi yang memungkinkan pembaca mengakses karya ilmiah secara terbuka, sesuai ketentuan lisensinya.
+
+Indeksasi Jurnal — Proses pencatatan jurnal dalam basis data atau layanan pengindeks.
+
+SINTA — Sistem informasi yang digunakan di Indonesia untuk mendukung pengukuran dan pemetaan kinerja penelitian serta publikasi ilmiah.
+
+Scopus — Basis data abstrak dan sitasi literatur ilmiah yang dikelola oleh Elsevier.
+
+Web of Science — Platform basis data literatur ilmiah dan sitasi yang digunakan untuk penelusuran penelitian.
+
+IMRaD — Struktur artikel ilmiah yang terdiri atas Introduction, Methods, Results, and Discussion.
+
+Research Gap — Kesenjangan pengetahuan atau aspek yang belum terjawab dalam penelitian terdahulu.
+
+Novelty — Unsur kebaruan atau kontribusi baru yang ditawarkan suatu penelitian.
+
+Hipotesis — Dugaan atau pernyataan sementara yang diuji melalui penelitian.
+
+Variabel Penelitian — Karakteristik atau faktor yang diamati, diukur, atau dianalisis dalam penelitian.
+
+D. Istilah Referensi dan Pengelolaan Sumber
+
+Mendeley — Perangkat pengelola referensi yang membantu menyimpan sumber, mengatur pustaka, dan menyisipkan sitasi.
+
+Zotero — Aplikasi pengelola referensi untuk mengumpulkan, mengorganisasi, dan mengutip sumber ilmiah.
+
+EndNote — Perangkat lunak pengelola referensi yang digunakan dalam penulisan akademik.
+
+Google Scholar — Layanan pencarian literatur ilmiah, seperti artikel, tesis, buku akademik, dan makalah konferensi.
+
+Crossref — Organisasi yang menyediakan infrastruktur metadata dan pengidentifikasi untuk publikasi ilmiah, termasuk DOI.
+
+ORCID — Pengidentifikasi digital unik bagi peneliti dan kontributor akademik.
+
+Bibliografi — Daftar sumber bacaan yang berkaitan dengan suatu topik atau karya.
+
+Gaya Sitasi — Aturan untuk menulis kutipan dan referensi, seperti APA, MLA, Chicago, atau IEEE.
+
+APA Style — Gaya penulisan akademik yang diterbitkan oleh American Psychological Association.
+
+IEEE Style — Gaya sitasi yang banyak digunakan dalam bidang teknik, komputer, dan teknologi.
+
+Kutipan Langsung — Penggunaan kata-kata dari sumber asli secara persis dengan penandaan dan sitasi yang sesuai.
+
+Parafrasa — Penyampaian kembali gagasan sumber menggunakan susunan kata sendiri tanpa mengubah maknanya, disertai sitasi jika gagasan tersebut berasal dari pihak lain.
+
+Manajemen Referensi — Proses mengatur, menyimpan, dan menggunakan sumber pustaka secara sistematis.
+
+Database Akademik — Basis data yang menyediakan informasi tentang publikasi dan sumber ilmiah.
+
+Literatur Primer — Sumber asli, misalnya laporan penelitian empiris atau dokumen yang menyajikan temuan langsung.
+
+E. Istilah Kecerdasan Buatan (AI) dalam Penulisan
+
+Artificial Intelligence (AI) — Teknologi yang memungkinkan sistem komputer melakukan tugas yang memerlukan kemampuan seperti pemahaman bahasa, pengenalan pola, atau penalaran.
+
+Generative AI — Kecerdasan buatan yang dapat menghasilkan konten baru, seperti teks, gambar, audio, dan kode.
+
+ChatGPT — Asisten AI yang dapat membantu menjelaskan konsep, menyusun draf, mencari ide, dan memperbaiki tulisan.
+
+Prompt — Instruksi atau masukan yang diberikan kepada sistem AI untuk memperoleh hasil tertentu.
+
+Prompt Engineering — Teknik menyusun dan menyempurnakan instruksi agar hasil AI lebih relevan dengan kebutuhan.
+
+Large Language Model (LLM) — Model AI yang dilatih untuk memproses dan menghasilkan bahasa manusia.
+
+AI Writing Assistant — Alat berbasis AI yang membantu proses penulisan, penyuntingan, atau pengembangan ide.
+
+AI Paraphrasing — Penggunaan AI untuk membantu menyusun ulang kalimat atau paragraf.
+
+AI Grammar Checker — Alat berbasis AI yang membantu memeriksa tata bahasa, ejaan, dan kejelasan tulisan.
+
+AI Summarization — Penggunaan AI untuk menghasilkan ringkasan dari teks atau dokumen.
+
+Human-AI Collaboration — Kolaborasi manusia dan AI untuk menyelesaikan pekerjaan dengan memanfaatkan keunggulan masing-masing.
+
+Hallucination AI — Kondisi ketika sistem AI menghasilkan informasi yang terdengar meyakinkan tetapi tidak akurat atau tidak didukung fakta.
+
+Fact-Checking — Proses memeriksa kebenaran klaim dengan membandingkannya terhadap bukti dan sumber tepercaya.
+
+AI Disclosure — Pengungkapan penggunaan AI dalam suatu karya apabila diwajibkan atau relevan menurut kebijakan penerbit.
+
+AI Ethics — Prinsip etika dalam pengembangan dan penggunaan AI, termasuk transparansi, keadilan, privasi, dan akuntabilitas.
+
+Bias AI — Kecenderungan sistem AI menghasilkan keluaran yang tidak seimbang akibat data, desain, atau proses pengembangannya.
+
+Human Editing — Pemeriksaan dan penyuntingan oleh manusia untuk memastikan ketepatan, kualitas, dan kesesuaian tulisan.
+
+AI-Generated Content — Konten yang dihasilkan seluruhnya atau sebagian dengan bantuan kecerdasan buatan.
+
+AI Detection — Upaya menggunakan perangkat atau metode tertentu untuk memperkirakan apakah suatu teks dihasilkan oleh AI. Hasil deteksi tidak selalu akurat dan tidak seharusnya menjadi satu-satunya bukti.
+
+Responsible AI — Pendekatan penggunaan AI yang memperhatikan keamanan, transparansi, privasi, dan tanggung jawab manusia.
+
+F. Istilah Publikasi Digital dan Blogging
+
+Blog — Situs atau bagian situs yang memuat tulisan dan diperbarui secara berkala.
+
+Blogger — Orang yang membuat, mengelola, atau menerbitkan konten blog.
+
+CMS (Content Management System) — Sistem untuk membuat, mengelola, dan menerbitkan konten digital.
+
+WordPress — Platform penerbitan dan pengelolaan situs web yang banyak digunakan untuk blog dan publikasi digital.
+
+Blogger Platform — Layanan blogging dari Google untuk membuat dan mengelola blog.
+
+SEO (Search Engine Optimization) — Upaya meningkatkan keterlihatan halaman web dalam hasil pencarian organik.
+
+Keyword — Kata atau frasa yang mewakili topik dan digunakan dalam pencarian informasi.
+
+Search Intent — Tujuan pengguna ketika mengetikkan kata atau frasa dalam mesin pencari.
+
+Meta Description — Ringkasan singkat halaman web yang dapat ditampilkan dalam hasil pencarian.
+
+Backlink — Tautan dari situs lain yang mengarah ke suatu halaman web.
+
+Internal Link — Tautan yang menghubungkan satu halaman dengan halaman lain dalam situs yang sama.
+
+Permalink — Alamat tetap yang digunakan untuk mengakses suatu halaman atau artikel.
+
+Domain — Nama alamat yang digunakan untuk mengakses situs web, misalnya contoh.com.
+
+Hosting — Layanan penyimpanan dan penyediaan sumber daya agar situs web dapat diakses melalui internet.
+
+Traffic Website — Jumlah kunjungan atau aktivitas akses terhadap situs web dalam periode tertentu.
+
+Engagement — Tingkat interaksi audiens dengan konten, misalnya komentar, berbagi, atau klik.
+
+Analytics — Pengumpulan dan analisis data untuk memahami kinerja situs web atau konten digital.
+
+Google Search Console — Layanan Google untuk memantau kinerja situs dalam hasil pencarian dan menemukan masalah pengindeksan.
+
+Google Analytics — Layanan analisis untuk memahami aktivitas pengguna pada situs atau aplikasi yang terhubung.
+
+Call to Action (CTA) — Ajakan yang mendorong pembaca melakukan tindakan, seperti membaca artikel lain atau mengunduh buku.
+
+G. Istilah Desain dan Multimedia Digital
+
+Canva — Platform desain grafis yang dapat digunakan untuk membuat sampul buku, poster, presentasi, dan materi publikasi.
+
+Adobe InDesign — Perangkat lunak untuk tata letak dan desain publikasi, termasuk buku dan majalah.
+
+Adobe Photoshop — Perangkat lunak pengolahan gambar digital.
+
+Infografis — Penyajian informasi melalui kombinasi teks, gambar, diagram, atau grafik.
+
+Ilustrasi Digital — Gambar yang dibuat atau diolah menggunakan perangkat digital.
+
+Resolusi Gambar — Ukuran detail gambar yang berkaitan dengan jumlah piksel atau karakteristik keluaran cetak.
+
+Tipografi Digital — Penggunaan dan pengaturan huruf dalam media digital.
+
+Desain Responsif — Desain situs yang menyesuaikan tampilan dengan ukuran layar perangkat pengguna.
+
+Multimedia — Penggabungan berbagai bentuk media, seperti teks, gambar, audio, animasi, dan video.
+
+Alt Text — Teks alternatif yang menjelaskan isi atau fungsi gambar untuk aksesibilitas dan konteks ketika gambar tidak dapat ditampilkan.
+
+H. Istilah Hak Cipta, Etika, dan Keamanan Digital
+
+Plagiarisme — Penggunaan karya atau gagasan orang lain tanpa pengakuan yang semestinya.
+
+Originalitas — Keaslian suatu karya atau kontribusi yang dihasilkan.
+
+Copyright — Istilah bahasa Inggris untuk hak cipta.
+
+Creative Commons — Kerangka lisensi yang memungkinkan pencipta memberikan izin tertentu kepada orang lain untuk menggunakan karyanya sesuai syarat lisensi.
+
+Lisensi Digital — Ketentuan yang mengatur cara suatu konten atau perangkat lunak boleh digunakan.
+
+Public Domain — Status karya yang tidak lagi dilindungi hak cipta atau tidak dilindungi hak eksklusif yang relevan, bergantung pada hukum yang berlaku.
+
+Atribusi — Pemberian pengakuan kepada pencipta atau sumber karya yang digunakan.
+
+Privasi Digital — Perlindungan informasi pribadi ketika menggunakan layanan dan teknologi digital.
+
+Keamanan Siber — Upaya melindungi sistem, perangkat, jaringan, dan data dari ancaman digital.
+
+Phishing — Upaya penipuan untuk memperoleh informasi sensitif dengan menyamar sebagai pihak tepercaya.
+
+Enkripsi — Proses mengubah informasi menjadi bentuk yang hanya dapat dibaca oleh pihak yang memiliki kunci atau mekanisme yang sesuai.
+
+Autentikasi Dua Faktor (2FA) — Metode keamanan yang menggunakan dua bentuk verifikasi untuk memastikan identitas pengguna.
+
+Jejak Digital — Rekaman aktivitas atau informasi yang tertinggal ketika seseorang menggunakan layanan digital.
+
+Misinformasi — Informasi yang salah atau tidak akurat, tanpa harus disebarkan dengan niat menipu.
+
+Disinformasi — Informasi salah atau menyesatkan yang sengaja dibuat atau disebarkan untuk menipu.
+
+I. Istilah Distribusi dan Pemasaran Publikasi
+
+Digital Publishing — Proses menerbitkan dan mendistribusikan karya melalui media digital.
+
+Self-Publishing Platform — Layanan yang membantu penulis menerbitkan dan mendistribusikan karya secara mandiri.
+
+Digital Marketing — Pemasaran produk, layanan, atau karya melalui saluran digital.
+
+Social Media Marketing — Pemasaran melalui media sosial untuk menjangkau dan berinteraksi dengan audiens.
+
+Content Marketing — Strategi pemasaran dengan membuat dan membagikan konten yang bermanfaat bagi audiens.
+
+Email Marketing — Penyampaian informasi atau promosi melalui email kepada penerima yang sesuai.
+
+Affiliate Marketing — Model pemasaran ketika pihak yang mempromosikan produk memperoleh komisi berdasarkan ketentuan program.
+
+Monetisasi Konten — Upaya memperoleh pendapatan dari konten digital.
+
+E-commerce — Aktivitas jual beli produk atau layanan melalui sistem elektronik.
+
+Digital Branding — Pembentukan identitas dan citra merek melalui kanal digital.
+
+Target Audiens — Kelompok pembaca atau pengguna yang menjadi sasaran suatu publikasi.
+
+Niche — Bidang atau topik khusus yang menjadi fokus konten.
+
+Evergreen Content — Konten yang tetap relevan dalam jangka waktu panjang meskipun waktu penerbitannya sudah berlalu.
+
+Content Calendar — Jadwal perencanaan dan penerbitan konten.
+
+Call to Read — Ajakan kepada audiens untuk membaca artikel, buku, atau publikasi tertentu.
+
+J. Istilah Pengembangan dan Evaluasi Publikasi Digital
+
+Keterbacaan (Readability) — Tingkat kemudahan suatu teks untuk dibaca dan dipahami.
+
+Aksesibilitas Digital — Upaya memastikan konten dan layanan digital dapat digunakan oleh orang dengan beragam kemampuan dan kebutuhan.
+
+User Experience (UX) — Pengalaman pengguna ketika berinteraksi dengan produk atau layanan digital.
+
+User Interface (UI) — Tampilan dan elemen interaktif yang digunakan pengguna untuk berinteraksi dengan sistem.
+
+Mobile-Friendly — Kondisi ketika situs atau konten mudah digunakan melalui perangkat seluler.
+
+Version Control — Pengelolaan perubahan pada dokumen atau berkas agar riwayat revisi dapat ditelusuri.
+
+Cloud Storage — Penyimpanan data pada layanan berbasis internet.
+
+Backup Digital — Salinan cadangan data yang dibuat untuk mengurangi risiko kehilangan informasi.
+
+Kolaborasi Dokumen — Penyuntingan atau pengembangan dokumen secara bersama-sama menggunakan perangkat digital.
+
+Quality Assurance (QA) — Proses pemeriksaan untuk memastikan kualitas produk atau publikasi memenuhi standar yang ditetapkan.
+
+Plagiarism Checker — Perangkat untuk membantu menemukan kemiripan teks dengan sumber lain; hasilnya perlu ditafsirkan secara cermat.
+
+Citation Analysis — Analisis terhadap pola sitasi untuk memahami hubungan dan pengaruh karya ilmiah.
+
+Altmetric — Ukuran perhatian terhadap publikasi ilmiah di berbagai kanal daring, seperti media sosial, berita, dan blog.
+
+Impresi (Impressions) — Jumlah penayangan konten kepada pengguna, sesuai definisi platform yang digunakan.
+
+Rasio Klik-Tayang (CTR) — Persentase impresi yang menghasilkan klik.
+
+Konversi — Tindakan yang diharapkan dari pengguna, misalnya membeli buku, mendaftar, atau mengunduh dokumen.
+
+Bounce Rate — Metrik analitik yang pengertiannya bergantung pada platform; pada sejumlah sistem, metrik ini mengukur persentase sesi yang tidak memenuhi kriteria keterlibatan tertentu.
+
+Indeksasi Mesin Pencari — Proses ketika mesin pencari memasukkan halaman web ke dalam basis data yang dapat ditampilkan dalam hasil pencarian.
+
+Structured Data — Data dengan format terstruktur yang membantu sistem memahami informasi pada halaman web.
+
+Digital Archiving — Penyimpanan dan pemeliharaan dokumen digital untuk menjaga akses serta keberlanjutannya dalam jangka panjang.
+
+Kesimpulan
+
+Literasi digital memiliki peran penting dalam penulisan buku, penyusunan jurnal ilmiah, pengelolaan blog, dan penerbitan karya digital. Dengan memahami istilah-istilah tersebut, penulis dapat meningkatkan kualitas tulisan, mengelola referensi dengan baik, memanfaatkan kecerdasan buatan secara bertanggung jawab, serta memperluas jangkauan publikasi.
+
+Penguasaan literasi digital juga membantu penulis menjaga etika akademik, melindungi hak cipta, memeriksa kebenaran informasi, dan menyesuaikan konten dengan kebutuhan pembaca.
+
+Catatan: Penggunaan AI dalam penulisan akademik harus mengikuti kebijakan kampus dan penerbit. Penulis tetap bertanggung jawab atas keakuratan fakta, keaslian kontribusi, sitasi, dan isi akhir karya yang diterbitkan.
